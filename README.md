@@ -1,3 +1,3 @@
 # grand-marshalls
 
-A personal website for the band, the Grand Marshalls.
+A website for the Grand Marshalls, a band from Leeds, UK.
